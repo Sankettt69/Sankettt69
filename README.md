@@ -1,9 +1,9 @@
 ## 🚀 Hi, I'm Sanket Giribuva
 
 
-Welcome to my GitHub corner! 👩‍💻  
-I’m a passionate engineering student who’s actively learning, building, and growing in tech.  
-I enjoy turning ideas into simple, functional projects while strengthening my fundamentals step by step 🌱
+👋 Welcome to my GitHub corner!
+I’m an engineering student driven by curiosity and hands-on learning.
+My work spans Electronics, IoT, Robotics, and Web Development, where I build simple yet meaningful projects to strengthen my core skills step by step 🌱
 
 ---
 
@@ -41,7 +41,7 @@ I enjoy turning ideas into simple, functional projects while strengthening my fu
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 
 ## 🌱 Currently Working On
-- Strengthening **Web Development fundamentals (HTML, CSS, JavaScript)**
-- Building **small practice projects**
-- Improving **problem-solving using C/C++ & Python**
+- Strengthening **Web Development to give hardware projects a modern interface**
+- Building **real-world IoT & Robotics projects**
+- Improving **Solving problems using C/C++ & Python to improve logic, performance, and code clarity**
 
